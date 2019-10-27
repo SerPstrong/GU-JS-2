@@ -1,0 +1,21 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    min-height: 100px;
+    background-color: #000;
+}
+
+.header_flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 100px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+}
